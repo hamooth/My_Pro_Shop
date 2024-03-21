@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b824304a52ca4e9e8f9031d5e557a4e6" Name="Diagram1">
+        <EntityTypeShape EntityType="shop_firstModel.Category_create_Table" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="shop_firstModel.Login_Table" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="shop_firstModel.sysdiagram" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="shop_firstModel.Table_Worker_Register" Width="1.5" PointX="2.75" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
